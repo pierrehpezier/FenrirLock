@@ -1,0 +1,9 @@
+
+services:
+  build:
+      image: golang:latest
+      volumes:
+          - ./:/build
+      command: make -C /build
+
+

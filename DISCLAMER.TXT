@@ -1,0 +1,11 @@
+FenrirLock is a ransomware simulator developed solely for educational and testing purposes. It is designed to help cybersecurity professionals, researchers, and organizations assess their security posture against ransomware threats in a controlled environment.
+
+By using this software, you agree to the following terms:
+
+Legal Use Only – This tool must only be used on systems and networks where you have explicit authorization. Unauthorized use is illegal and may result in criminal or civil liability.
+No Malicious Intent – This simulator is not intended for real-world attacks, unethical hacking, or any activities that violate local, national, or international laws.
+User Responsibility – The developers assume no liability for any misuse, damage, or legal consequences resulting from the use of this software. Users must ensure compliance with all applicable regulations and ethical guidelines.
+Controlled Testing – Always use this tool in a safe, isolated, and authorized test environment to prevent unintended consequences or damage.
+If you do not agree with these terms, do not use this software.
+
+Let me know if you need modifications!
